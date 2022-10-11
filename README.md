@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laxman kohar</h1>
-<h3 align="center">I am currently doing my B.Tech in computer science and engineering from sharda university.I love to do web development projects and wants to become a full stack web developer.I am passionate about technologies and love to learn a new things.</h3>
+<h3 align="center">Currently, I am doing my B.Tech in computer science and engineering from sharda university.I love to do web development projects and wants to become a full stack web developer.I am passionate about technologies and love to learn a new things.</h3>
 
 ![Github Banner](https://user-images.githubusercontent.com/73365025/195000384-48ee74ed-2f6a-458c-b9f2-d6bacbaae2ea.png)
 
