@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Laxman kohar</h1>
 <h3 align="center">I am currently doing my B.Tech in computer science and engineering from sharda university.I love to do web development projects and wants to become a full stack web developer.I am passionate about technologies and love to learn a new things.</h3>
 
+![Github Banner](https://user-images.githubusercontent.com/73365025/195000384-48ee74ed-2f6a-458c-b9f2-d6bacbaae2ea.png)
+
 [//]: <> (<a href="url"><img src="https://user-images.githubusercontent.com/73365025/194130136-706d0504-0fcc-4c9a-9fb7-0d627eb6aa1f.jpg" align="right" height="300" width="300" ></a>)
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmankohar" alt="laxmankohar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/laxmankohar2" target="blank"><img src="https://img.shields.io/twitter/follow/laxmankohar2?logo=twitter&style=for-the-badge" alt="laxmankohar2" /></a> </p>
+
+
+
 
 - 🔭 I’m currently working on **building my own portfolio.**
 
