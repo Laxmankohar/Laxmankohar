@@ -63,7 +63,7 @@
 <p></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmankohar&show_icons=true&locale=en&layout=compact" alt="laxmankohar" /></p><br><p><img align="right" src="https://github-readme-stats.vercel.app/api?username=laxmankohar&show_icons=true&locale=en" alt="laxmankohar" /></p><br><p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmankohar&" alt="laxmankohar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmankohar&show_icons=true&locale=en&layout=compact" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=laxmankohar&show_icons=true&locale=en" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmankohar&" alt="laxmankohar" /></p>
 
 
 
