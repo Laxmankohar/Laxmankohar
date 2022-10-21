@@ -18,10 +18,14 @@
 
 <p align="center"> <a href="https://twitter.com/laxmankohar2" target="blank"><img src="https://img.shields.io/twitter/follow/laxmankohar2?logo=twitter&style=for-the-badge" alt="laxmankohar2" /></a> </p><br>
 
+![](https://komarev.com/ghpvc/?username=laxmankohar&label=PROFILE+VIEWS)
+
+<h3 align= "center">AWARDS</h3>
+
 [![@laxmankohar's Holopin board](https://holopin.me/laxmankohar)](https://holopin.io/@laxmankohar)
 
 
-![](https://komarev.com/ghpvc/?username=laxmankohar&label=PROFILE+VIEWS)
+
 
 
 
