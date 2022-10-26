@@ -1,3 +1,4 @@
+<head><meta name="google-site-verification" content="fvbF-FZlPShxN7nEHvjd7x5IUIYk1T80M0aIYoqAuXA" /></head>
 <h1 align="center">Hi 👋, I'm Laxman kohar</h1>
 
 <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=D9393B&width=500&lines=Front+end+developer;Aspiring+Software+Engineer;Always+learn+new+things;Open+Source+Enthusiast" alt="Typing SVG" /></a></p>
