@@ -3,7 +3,7 @@
 
 <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=D9393B&width=500&lines=Front+end+developer;Aspiring+Software+Engineer;Always+learn+new+things;Open+Source+Enthusiast" alt="Typing SVG" /></a></p>
 
-<h3 align="center">Currently, I am doing my B.Tech in computer science and engineering from sharda university.I love to do web development projects and wants to become a full stack web developer.I am passionate about technologies and love to learn a new things.</h3><br>
+<h3 align="center">I'm a final year CS undergrad. I'm a web developer and open source contributor. My interest lied in developing new component, contributing in projects and solving real life problems. I love to learn and explore new areas.</h3><br>
 
 [![badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fdynamic-badge-formatter-ynrxn78r2oye.runkit.sh%2Fjson%3Furl%3Dhttps%253A%252F%252Fapi.github-star-counter.workers.dev%252Fuser%252Flaxmankohar%26query%3Dstars%26formatter%3Dmetric%26label%3Dstars%26color%3Dgreen%26logo%3Dgithub%26style%3Dflat)](https://github.com/Laxmankohar)
 [![badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fdynamic-badge-formatter-ynrxn78r2oye.runkit.sh%2Fjson%3Furl%3Dhttps%253A%252F%252Fapi.github-star-counter.workers.dev%252Fuser%252Flaxmankohar%26query%3Dforks%26formatter%3Dmetric%26label%3Dforks%26color%3Dgreen%26logo%3Dgithub%26style%3Dflat)](https://github.com/Laxmankohar)
