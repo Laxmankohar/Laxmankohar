@@ -5,8 +5,6 @@
 
 <h3 align="center">I'm a final year CS undergrad. I'm a web developer and open source contributor. My interest lied in developing new component, contributing in projects and solving real life problems. I love to learn and explore new areas.</h3><br>
 
-[![badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fdynamic-badge-formatter-ynrxn78r2oye.runkit.sh%2Fjson%3Furl%3Dhttps%253A%252F%252Fapi.github-star-counter.workers.dev%252Fuser%252Flaxmankohar%26query%3Dstars%26formatter%3Dmetric%26label%3Dstars%26color%3Dgreen%26logo%3Dgithub%26style%3Dflat)](https://github.com/Laxmankohar)
-[![badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fdynamic-badge-formatter-ynrxn78r2oye.runkit.sh%2Fjson%3Furl%3Dhttps%253A%252F%252Fapi.github-star-counter.workers.dev%252Fuser%252Flaxmankohar%26query%3Dforks%26formatter%3Dmetric%26label%3Dforks%26color%3Dgreen%26logo%3Dgithub%26style%3Dflat)](https://github.com/Laxmankohar)
 
 
 ![Github Banner](https://user-images.githubusercontent.com/73365025/195000384-48ee74ed-2f6a-458c-b9f2-d6bacbaae2ea.png)
