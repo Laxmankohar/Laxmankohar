@@ -6,8 +6,8 @@
 <h3 align="center">I'm a final year CS undergrad. I'm a web developer and open source contributor. My interest lied in developing new component, contributing in projects and solving real life problems. I love to learn and explore new areas.</h3><br>
 
 
+![Gradient Business Digital Marketing Linkedln Banner](https://user-images.githubusercontent.com/73365025/200837005-e3b5b1a1-e94d-4d01-89b1-24fb51c5caae.png)
 
-![Github Banner](https://user-images.githubusercontent.com/73365025/195000384-48ee74ed-2f6a-458c-b9f2-d6bacbaae2ea.png)
 <p></p><br><br>
 
 [//]: <> (<a href="url"><img src="https://user-images.githubusercontent.com/73365025/194130136-706d0504-0fcc-4c9a-9fb7-0d627eb6aa1f.jpg" align="right" height="300" width="300" ></a>)
