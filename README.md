@@ -72,7 +72,7 @@
  
  <p align = "center"> Laxman's Activity Graph</p><br>
 
-[![Laxman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Laxmankohar&theme=react-dark		)](https://github.com/Laxmankohar/github-readme-activity-graph)
+[![Laxman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=laxmankohar&bg_color=000000&color=d90dcb&line=ffffff&point=f5c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p></p><br><br>
 
 
