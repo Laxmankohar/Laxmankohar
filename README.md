@@ -12,36 +12,35 @@
 
 [//]: <> (<a href="url"><img src="https://user-images.githubusercontent.com/73365025/194130136-706d0504-0fcc-4c9a-9fb7-0d627eb6aa1f.jpg" align="right" height="300" width="300" ></a>)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=laxmankohar&column=7&theme=radical&margin-h=15&margin-w=15 alt="laxmankohar" /></a> </p><br>
+<!-- (<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=laxmankohar&column=7&theme=radical&margin-h=15&margin-w=15 alt="laxmankohar" /></a> </p><br> -->
 
 
-<p align="center"> <a href="https://twitter.com/laxmankohar2" target="blank"><img src="https://img.shields.io/twitter/follow/laxmankohar2?logo=twitter&style=for-the-badge" alt="laxmankohar2" /></a> </p><br>
+<!-- <p align="center"> <a href="https://twitter.com/laxmankohar2" target="blank"><img src="https://img.shields.io/twitter/follow/laxmankohar2?logo=twitter&style=for-the-badge" alt="laxmankohar2" /></a> </p><br> -->
 
-![](https://komarev.com/ghpvc/?username=laxmankohar&label=PROFILE+VIEWS)
+<!-- ![](https://komarev.com/ghpvc/?username=laxmankohar&label=PROFILE+VIEWS) -->
+
+
+
+
+
+- 🔭 I’m currently working on **building my own portfolio.**
+
+- 🌱 I’m currently learning **Data structure and algorithm.**
+
+- 👯 I’m looking to collaborate on **open source projects.**
+
+- 🤝 I’m looking for help with **Data structure and algorithm.**
+
+- 💬 Ask me about anythings **i am happy to help.**
+
+- 📫 How to reach me **laxmankohar9@gmail.com**
+
+- ⚡ Fun fact **I like to play games.**
 
 <h3 align= "center">AWARDS</h3>
 
 [![@laxmankohar's Holopin board](https://holopin.me/laxmankohar)](https://holopin.io/@laxmankohar)
 
-
-
-
-
-
-
-                            - 🔭 I’m currently working on **building my own portfolio.**
-
-                            - 🌱 I’m currently learning **Data structure and algorithm.**
-
-                            - 👯 I’m looking to collaborate on **open source projects.**
-
-                            - 🤝 I’m looking for help with **Data structure and algorithm.**
-
-                            - 💬 Ask me about anythings **i am happy to help.**
-
-                            - 📫 How to reach me **laxmankohar9@gmail.com**
-
-                            - ⚡ Fun fact **I like to play games.**
 
 
 
