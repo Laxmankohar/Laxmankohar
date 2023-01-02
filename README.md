@@ -6,7 +6,7 @@
 <h3 align="center">I'm a final year CS undergrad. I'm a web developer and open source contributor. My interest lied in developing new component, contributing in projects and solving real life problems. I love to learn and explore new areas.</h3><br>
 
 
-![Gradient Business Digital Marketing Linkedln Banner](https://user-images.githubusercontent.com/73365025/200837005-e3b5b1a1-e94d-4d01-89b1-24fb51c5caae.png)
+<!-- ![Gradient Business Digital Marketing Linkedln Banner](https://user-images.githubusercontent.com/73365025/200837005-e3b5b1a1-e94d-4d01-89b1-24fb51c5caae.png) -->
 
 <p></p><br><br>
 
