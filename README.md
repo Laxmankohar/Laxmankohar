@@ -5,7 +5,6 @@
 
 <h3 align="center">I'm a final year CS undergrad. I'm a web developer and open source contributor. My interest lied in developing new component, contributing in projects and solving real life problems. I love to learn and explore new areas.</h3><br>
 
-
 <!-- ![Gradient Business Digital Marketing Linkedln Banner](https://user-images.githubusercontent.com/73365025/200837005-e3b5b1a1-e94d-4d01-89b1-24fb51c5caae.png) -->
 
 <p></p><br><br>
@@ -31,7 +30,7 @@
 
 - 🤝 I’m looking for help with **Data structure and algorithm.**
 
-- 💬 Ask me about anythings **i am happy to help.**
+- 💬 Ask me about anythings **I am happy to help.**
 
 - 📫 How to reach me **laxmankohar9@gmail.com**
 
@@ -71,7 +70,6 @@
 
 [![Laxman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=laxmankohar&bg_color=000000&color=d90dcb&line=ffffff&point=f5c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p></p><br><br>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmankohar&show_icons=true&locale=en&layout=compact" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=laxmankohar&show_icons=true&locale=en" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmankohar&" alt="laxmankohar" /></p>
 
