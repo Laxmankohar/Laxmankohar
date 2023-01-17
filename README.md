@@ -20,8 +20,6 @@
 
 
 
-
-
 - 🔭 I’m currently working on **building my own portfolio.**
 
 - 🌱 I’m currently learning **Data structure and algorithm.**
