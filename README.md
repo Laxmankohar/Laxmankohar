@@ -19,14 +19,9 @@
 <!-- ![](https://komarev.com/ghpvc/?username=laxmankohar&label=PROFILE+VIEWS) -->
 
 
-
-- 🔭 I’m currently working on **building my own portfolio.**
-
 - 🌱 I’m currently learning **Data structure and algorithm.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
-
-- 🤝 I’m looking for help with **Data structure and algorithm.**
 
 - 💬 Ask me about anythings **I am happy to help.**
 
