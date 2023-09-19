@@ -64,7 +64,11 @@
 [![Laxman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laxmankohar&theme=high-contrast)](https://github.com/Laxmankohar/github-readme-activity-graph)
 <p></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmankohar&show_icons=true&locale=en&layout=compact" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=laxmankohar&show_icons=true&locale=en" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmankohar&" alt="laxmankohar" /></p>
+![Laxmankohar's Stats](https://github-readme-stats.vercel.app/api?username=Laxmankohar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Laxmankohar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laxmankohar&theme=vue&hide_border=true)
+![Laxmankohar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankohar&theme=vue&show_icons=true&hide_border=true&layout=compact)
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmankohar&show_icons=true&locale=en&layout=compact" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=laxmankohar&show_icons=true&locale=en" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmankohar&" alt="laxmankohar" /></p> -->
 
 
 
