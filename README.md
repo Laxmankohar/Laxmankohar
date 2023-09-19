@@ -1,7 +1,7 @@
 <head><meta name="google-site-verification" content="fvbF-FZlPShxN7nEHvjd7x5IUIYk1T80M0aIYoqAuXA" /></head>
 <h1 align="center">Hi 👋, I'm Laxman kohar</h1>
 
-<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=D9393B&width=500&lines=Front+end+developer;Aspiring+Software+Engineer;Always+learn+new+things;Open+Source+Enthusiast" alt="Typing SVG" /></a></p>
+<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=D9393B&width=500&lines=Trainee+Software+Engineer;Always+learn+new+things;Open+Source+Enthusiast" alt="Typing SVG" /></a></p>
 
 <h3 align="center">I'm a Trainee software engineer. I'm a web developer and open source contributor. My interest lied in developing new component, contributing in projects and solving real life problems. I love to learn and explore new areas.</h3><br>
 
@@ -61,7 +61,7 @@
  
  <p align = "center"> Laxman's Activity Graph</p><br>
 
-[![Laxman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=laxmankohar&bg_color=000000&color=d90dcb&line=ffffff&point=f5c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Laxman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laxmankohar&theme=dracula)](https://github.com/Laxmankohar/github-readme-activity-graph)
 <p></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmankohar&show_icons=true&locale=en&layout=compact" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=laxmankohar&show_icons=true&locale=en" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmankohar&" alt="laxmankohar" /></p>
