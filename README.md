@@ -19,7 +19,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=laxmankohar&label=PROFILE+VIEWS) -->
 
 
-- 🌱 I’m currently learning **Data structure and algorithm.**
+<!--- 🌱 I’m currently learning **Data structure and algorithm.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **laxmankohar9@gmail.com**
 
-- ⚡ Fun fact **I like to play games.**
+- ⚡ Fun fact **I like to play games.** -->
 
 <h3 align= "center">AWARDS</h3>
 
