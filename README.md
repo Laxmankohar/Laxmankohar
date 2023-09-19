@@ -61,7 +61,7 @@
  
  <p align = "center"> Laxman's Activity Graph</p><br>
 
-[![Laxman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laxmankohar&theme=dracula)](https://github.com/Laxmankohar/github-readme-activity-graph)
+[![Laxman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laxmankohar&theme=high-contrast)](https://github.com/Laxmankohar/github-readme-activity-graph)
 <p></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmankohar&show_icons=true&locale=en&layout=compact" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=laxmankohar&show_icons=true&locale=en" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmankohar&" alt="laxmankohar" /></p>
