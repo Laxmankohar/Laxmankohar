@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact **I like to play games.** -->
 
-<h3 align= "center">AWARDS</h3>
+<h3 align= "center">Badges</h3>
 
 
 [![@laxmankohar's Holopin board](https://holopin.me/laxmankohar)](https://holopin.io/@laxmankohar)
