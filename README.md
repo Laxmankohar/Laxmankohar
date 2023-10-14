@@ -3,7 +3,9 @@
 
 <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=D9393B&width=500&lines=Trainee+Software+Engineer;Always+learn+new+things;Open+Source+Enthusiast" alt="Typing SVG" /></a></p>
 
-<h3 align="center">I'm a Trainee software engineer. My interest lied in developing new component, contributing in projects and solving real life problems. I love to learn and explore new areas.</h3><br>
+- Workimg as a Trainee software engineer.<br>
+- My interest lied in contributing in projects and solving real life problems.<br>
+- I love to learn and explore new areas.<br>
 
 <!-- ![Gradient Business Digital Marketing Linkedln Banner](https://user-images.githubusercontent.com/73365025/200837005-e3b5b1a1-e94d-4d01-89b1-24fb51c5caae.png) -->
 
