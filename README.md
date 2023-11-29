@@ -3,7 +3,7 @@
 
 <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=D9393B&width=500&lines=Trainee+Software+Engineer;Always+learn+new+things;Open+Source+Enthusiast" alt="Typing SVG" /></a></p>
 
-- Workimg as a Trainee software engineer.<br>
+- Working as a Trainee software engineer.<br>
 - My interest lied in contributing in projects and solving real life problems.<br>
 - I love to learn and explore new areas.<br>
 
