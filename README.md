@@ -1,76 +1,115 @@
-<head><meta name="google-site-verification" content="fvbF-FZlPShxN7nEHvjd7x5IUIYk1T80M0aIYoqAuXA" /></head>
-<h1 align="center">Hi 👋, I'm Laxman kohar</h1>
+<h1 align="center">Hi Geeks, I'm Laxman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=D9393B&width=500&lines=Trainee+Software+Engineer;Always+learn+new+things;Open+Source+Enthusiast" alt="Typing SVG" /></a></p>
-
-- Working as a Trainee software engineer.<br>
-- My interest lied in contributing in projects and solving real life problems.<br>
-- I love to learn and explore new areas.<br>
-
-<!-- ![Gradient Business Digital Marketing Linkedln Banner](https://user-images.githubusercontent.com/73365025/200837005-e3b5b1a1-e94d-4d01-89b1-24fb51c5caae.png) -->
-
-<p></p><br><br>
-
-[//]: <> (<a href="url"><img src="https://user-images.githubusercontent.com/73365025/194130136-706d0504-0fcc-4c9a-9fb7-0d627eb6aa1f.jpg" align="right" height="300" width="300" ></a>)
-
-<!-- (<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=laxmankohar&column=7&theme=radical&margin-h=15&margin-w=15 alt="laxmankohar" /></a> </p><br> -->
+<div align="center">
+    
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&color=5DD6F6&background=0E1014&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Explore+the+world+of+code+with+me!)
 
 
-<!-- <p align="center"> <a href="https://twitter.com/laxmankohar2" target="blank"><img src="https://img.shields.io/twitter/follow/laxmankohar2?logo=twitter&style=for-the-badge" alt="laxmankohar2" /></a> </p><br> -->
 
-<!-- ![](https://komarev.com/ghpvc/?username=laxmankohar&label=PROFILE+VIEWS) -->
+</div>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<!--- 🌱 I’m currently learning **Data structure and algorithm.**
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 👯 I’m looking to collaborate on **open source projects.**
-
-- 💬 Ask me about anythings **I am happy to help.**
-
-- 📫 How to reach me **laxmankohar9@gmail.com**
-
-- ⚡ Fun fact **I like to play games.** -->
-
-<h3 align= "center">Badges</h3>
+- 🔭 I’m currently working in `Prolifics Corporation` as `Trainee Software Engineer.`
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently learning MERN Stack Development.
+- 👯 I’m looking forward to collaborate on open source projects.
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/Laxmankohar)**
 
 
-[![@laxmankohar's Holopin board](https://holopin.me/laxmankohar)](https://holopin.io/@laxmankohar)
 
-<h3 align="center">Connect with me:</h3>
 
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
-<table align = "center">
-    <tr>
-        <td><a href="https://twitter.com/laxmankohar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laxmankohar2" height="40" width="40" /></a></td><td><a href="https://linkedin.com/in/laxman-kohar-a85a9a195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxman kohar" height="40" width="40"/></a></td><td><a href="https://fb.com/laxman.kohar.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laxman kohar"height="40" width="40" /></a></td><td><a href="https://instagram.com/kohar_laxman12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kohar_laxman12" height="40" width="40"/></a></td><td><a href="https://www.codechef.com/users/laxman_890" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="laxman_890" height="40" width="40" /></a></td><td><a href="https://www.hackerrank.com/laxmankohar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@laxmankohar7" height="40" width="40" /></a></td><td><a href="https://www.leetcode.com/laxmankohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laxmankohar" height="40" width="40" /></a></td>
-    </tr>
-</table>
-</p><br>
+- 📋 Languages:
+  
+    ![Java](https://img.shields.io/badge/java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![C#](https://img.shields.io/badge/c%23-%239146FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+    
+- ♾️ Version Control:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+    
+- 💾 Databases:
+
+    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+    
+
+- 💻 IDEs/Editors:
+  
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+    ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+
+- 🥅 Hosting:
+  
+    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+    ![GitHub Pages](https://img.shields.io/badge/github_pages-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<h3 align="center">Languages and Tools:</h3>
+
+</p>
+
+<br> 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
+<p style="margin: 0;">
+  <p style="margin: 0;">
+  <img width="320" height="150" src="https://github-readme-stats.vercel.app/api?username=Laxmankohar&theme=tokyonight&show_icons=true">
+  <img width="320" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laxmankohar&show_icons=true&locale=en&layout=compact&theme=tokyonight">
+  <img width="320" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Laxmankohar&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69">
+</p>
 
 
-<p align="center"> 
+</p>
 
-<table align="center">
-    <tr>
-        <td><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40" width="40"/></td><td></a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40" width="40"/> </a></td><td><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" width="40"/> </a></td><td> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40"/> </a> </td><td><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" width="40"/> </a> </td><td><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"height="40" width="40"/> </a></td><td> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40" width="40" /> </a></td><td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"height="40" width="40"/> </a> </td><td><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" width="40" /> </a></td><td> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"height="40" width="40"/> </a> </td><td><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="40" /> </a></td>
-    </tr>
-</table>
- </p><br>
- 
- <p align = "center"> Laxman's Activity Graph</p><br>
+
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/laxmankohar2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/laxman-kohar-a85a9a195)
+[![Facebook](https://img.shields.io/badge/Facebook-%1877F7.svg?style=flat&logo=facebook&logoColor=white)](https://fb.com/laxman.kohar.92)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23562DFF.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/laxman_890)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/laxmankohar7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://www.leetcode.com/laxmankohar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kohar_laxman12)
+
+<br>
+
+</p>
+
+ ## Thank you for visiting my profile. You're a gem. :gem:
+
+![Visitor Count](https://profile-counter.glitch.me/Laxmankohar/count.svg)
+
+<hr>
+<p align = "center"> Laxman's Activity Graph</p><br>
 
 [![Laxman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laxmankohar&theme=high-contrast)](https://github.com/Laxmankohar/github-readme-activity-graph)
-<p></p><br><br>
-
-![Laxmankohar's Stats](https://github-readme-stats.vercel.app/api?username=Laxmankohar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Laxmankohar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laxmankohar&theme=vue&hide_border=true)
-![Laxmankohar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankohar&theme=vue&show_icons=true&hide_border=true&layout=compact)
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmankohar&show_icons=true&locale=en&layout=compact" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=laxmankohar&show_icons=true&locale=en" alt="laxmankohar" /></p><br><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmankohar&" alt="laxmankohar" /></p> -->
+<p>
 
 
-
+  
