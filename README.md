@@ -3,9 +3,6 @@
 <div align="center">
     
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&color=5DD6F6&background=0E1014&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Explore+the+world+of+code+with+me!)
-
-
-
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
